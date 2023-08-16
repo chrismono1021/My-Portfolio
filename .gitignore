@@ -55,7 +55,6 @@ typings/
 .yarn-integrity
 
 # dotenv environment variables file
-.env.local
 
 build/
 build-storybook/
@@ -64,3 +63,4 @@ public/draco/
 public/og
 .serverless
 .next
+config.bat
